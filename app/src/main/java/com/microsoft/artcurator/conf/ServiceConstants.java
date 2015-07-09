@@ -7,7 +7,6 @@ package com.microsoft.artcurator.conf;
 /**
  * Constants used for communicating with Office services
  */
-@SuppressWarnings("unused")
 public class ServiceConstants {
 
     // App specific
