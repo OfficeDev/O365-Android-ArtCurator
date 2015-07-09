@@ -1,0 +1,77 @@
+<!--
+Copyright (c) Microsoft. All rights reserved.
+Licensed under the MIT license.
+See full license at the bottom of this file.
+-->
+
+<resources>
+    <string name="app_name">Art Curator</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="msg_default_like">Excellent submission. Please email me at your convenience to discuss a sale.</string>
+    <string name="msg_default_dislike">This submission isn\'t what I\'m looking for. Thank you anyway.</string>
+    <string name="welcome">Welcome to Art Curator! Connect to Office 365 with the button below so we can start fetching new art from your inbox.</string>
+    <string name="welcome_btn">Connect</string>
+    <string name="dislike">Dislike</string>
+    <string name="like">Like</string>
+    <string name="liked">Liked</string>
+    <string name="disliked">Disliked</string>
+    <string name="rly_sign_out">Really disconnect?</string>
+    <string name="sign_out_yes">Disconnect</string>
+    <string name="cancel">Cancel</string>
+    <string name="err_discovery">Service discovery failed.</string>
+    <string name="folder">FOLDER</string>
+    <string name="submissions_dir">New submissions folder</string>
+    <string name="like_actions">LIKE ACTIONS</string>
+    <string name="mark_read">Mark as read</string>
+    <string name="send_response">Send a response</string>
+    <string name="dislike_actions">DISLIKE ACTIONS</string>
+    <string name="sign_out">Disconnect</string>
+    <string name="acct_opts">ACCOUNT</string>
+    <string name="attachment_desc">attachment image</string>
+    <string name="no_imgs_found">No new submissions in this folder.</string>
+    <string name="populate_inbox">Send images to your inbox</string>
+    <string name="folder_nf_title">"Folder not found - "</string>
+    <string name="folder_nf_msg">The specified folder couldn\'t be found</string>
+    <string name="settings">Settings</string>
+    <string name="fail_discovery">Failed to discover services</string>
+    <string name="fail_find_folder">"Failed to find Folder: "</string>
+    <string name="fail_load_folders">Failed to load Folders</string>
+    <string name="fail_atchmnt_load">Failed to load Messages with Attachments</string>
+    <string name="fail_mime">Failed to load Attachment MIME types</string>
+    <string name="fail_single_attachment">Failed to load Attachment</string>
+    <string name="sign_in_noorg">Couldn\'t sign you in to Office 365. If your Office 365 account is managed by an organization, use your organization email address.</string>
+    <string name="err_signin_title">Couldn\'t sign in</string>
+</resources>
+
+
+    <!--
+    // *********************************************************
+    //
+    // O365-Android-Art Curator
+    //
+    // Copyright (c) Microsoft Corporation
+    // All rights reserved.
+    //
+    // MIT License:
+    // Permission is hereby granted, free of charge, to any person obtaining
+    // a copy of this software and associated documentation files (the
+    // "Software"), to deal in the Software without restriction, including
+    // without limitation the rights to use, copy, modify, merge, publish,
+    // distribute, sublicense, and/or sell copies of the Software, and to
+    // permit persons to whom the Software is furnished to do so, subject to
+    // the following conditions:
+    //
+    // The above copyright notice and this permission notice shall be
+    // included in all copies or substantial portions of the Software.
+    //
+    // THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    // EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+    // MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+    // NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+    // LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+    // OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+    // WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+    //
+    // *********************************************************
+    -->
