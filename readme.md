@@ -1,5 +1,5 @@
 # O365-Android-Art-Curator
-This sample demonstrates how to use the Outlook Mail API to get emails and attachments from Office 365. It's built for [iOS](https://github.com/OfficeDev/O365-iOS-ArtCurator), Android, [Web (Angular web app)](https://github.com/OfficeDev/O365-Angular-ArtCurator), and [Windows Phone](https://github.com/OfficeDev/O365-WinPhone-ArtCurator).
+This sample demonstrates how to use the Outlook Mail API to get emails and attachments from Office 365. It's built for [iOS](https://github.com/OfficeDev/O365-iOS-ArtCurator), Android, [Web (Angular web app)](https://github.com/OfficeDev/O365-Angular-ArtCurator), and [Windows Phone](https://github.com/OfficeDev/O365-WinPhone-ArtCurator). Check out our [article on Medium](https://medium.com/@iambmelt/14296d0a25be).
 <br />
 <br />
 The Art Curator sample provides a different way to view your inbox. Imagine you own a company that sells artistic t-shirts. As the owner of the company, you receive lots of emails from artists with designs they want you to buy. Currently, you use your email client to open each message and attachment. Instead, you can use the Art Curator sample to give you an attachment-first view of your inbox so that you can pick and choose designs you like. 
@@ -10,6 +10,8 @@ This sample demonstrates the following operations from the Outlook Services Mail
 * [Get attachments](https://msdn.microsoft.com/office/office365/APi/mail-rest-operations#GetAttachments)
 * [Update messages](https://msdn.microsoft.com/office/office365/APi/mail-rest-operations#Updatemessages)
 * [Create and send messages](https://msdn.microsoft.com/office/office365/APi/mail-rest-operations#Sendmessages) (with and without an attachment) 
+
+[![Office 365 Android Art Curator](/readme-images/artcurator_android.png)](https://youtu.be/4LOvkweDfhY "Click to see the sample in action")
 
 Prerequisites
 ==
