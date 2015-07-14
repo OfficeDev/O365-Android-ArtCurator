@@ -53,7 +53,7 @@ Limitations
 Questions and comments
 ==
 * If you have any trouble running this sample, please [log and issue](https://github.com/OfficeDev/O365-Android-ArtCurator/issues)
-* For general questions about the Office 365 APIs, post to [StackOverflow](http://stackoverflow.com/). Make sure that your questions or comments are tagged with [Office365] and [outlook-restapi]
+* For general questions about the Office 365 APIs, post to [Stack Overflow](http://stackoverflow.com/). Make sure that your questions or comments are tagged with [Office365] and [outlook-restapi]
 
 Additional resources
 ==
