@@ -20,7 +20,7 @@ public class ServiceInfoLookup extends HashMap<String, ServiceInfo> {
 }
 // *********************************************************
 //
-// O365-Android-Art Curator
+// O365-Android-ArtCurator https://github.com/OfficeDev/O365-Android-ArtCurator
 //
 // Copyright (c) Microsoft Corporation
 // All rights reserved.

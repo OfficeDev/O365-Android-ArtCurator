@@ -36,7 +36,7 @@ public class SwipeRefreshLayout extends android.support.v4.widget.SwipeRefreshLa
 }
 // *********************************************************
 //
-// O365-Android-Art Curator
+// O365-Android-ArtCurator https://github.com/OfficeDev/O365-Android-ArtCurator
 //
 // Copyright (c) Microsoft Corporation
 // All rights reserved.
