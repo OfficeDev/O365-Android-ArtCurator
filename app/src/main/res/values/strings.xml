@@ -44,11 +44,10 @@ See full license at the bottom of this file.
     <string name="err_signin_title">Couldn\'t sign in</string>
 </resources>
 
-
     <!--
     // *********************************************************
     //
-    // O365-Android-Art Curator
+    // O365-Android-ArtCurator https://github.com/OfficeDev/O365-Android-ArtCurator
     //
     // Copyright (c) Microsoft Corporation
     // All rights reserved.

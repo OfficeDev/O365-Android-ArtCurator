@@ -148,7 +148,7 @@ public class AuthenticationManager {
 }
 // *********************************************************
 //
-// O365-Android-EasyAuth
+// O365-Android-ArtCurator https://github.com/OfficeDev/O365-Android-ArtCurator
 //
 // Copyright (c) Microsoft Corporation
 // All rights reserved.
