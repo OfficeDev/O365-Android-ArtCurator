@@ -46,6 +46,7 @@ Limitations
 * Handling a single email with multiple attachments
 * Paging (getting more than 50 emails)
 * Handling folder name uniqueness
+* Submission folder must be a top-level folder
 
 Questions and comments
 ==
