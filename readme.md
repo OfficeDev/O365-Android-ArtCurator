@@ -61,6 +61,9 @@ Additional resources
 * [Get started with Office 365 APIs in apps](https://msdn.microsoft.com/en-us/office/office365/howto/getting-started-Office-365-APIs)
 * [Office Dev Center (Android)](http://dev.office.com/Android)
 * [Office 365 APIs platform overview](http://stackoverflow.com/)
+* [Art Curator for iOS](https://github.com/OfficeDev/O365-iOS-ArtCurator)
+* [Art Curator for Windows Phone](https://github.com/OfficeDev/O365-WinPhone-ArtCurator)
+* [Art Curator for Web (Angular web app)](https://github.com/OfficeDev/O365-Angular-ArtCurator)
 
 Copyright
 ==
