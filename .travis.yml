@@ -5,6 +5,17 @@ android:
   - extra
   - android-22
   - build-tools-22.0.1
-
 script:
-  - gradle clean build
+- gradle clean build
+notifications:
+  slack:
+    secure: BO4//UeKBkVHTuhG92UsVcXn+QjcAZeDTvbHLmwe8uRDAoo2gXFbBBkayQT1gz1PadszHxZwai+IPLqQwoXPlu0PdrxjTGyXosGCBphmph6rJqZ0eAnKPY2WStXFLJknfkjFms6zpc55dRO+bpi/Ci6HWxGmhjpdG5CljsZ8jc6C8FB8yhl0M05FgNyCORizPZyJjUFCCsj1N3q+8O1h93iMV6PGfC5qQnIN/mfIgyNVroatAyIaqv3TFshtX92kFVgD5vYv0iBKwxHb9tDafG1VE7WWxYDHfQnoCPhM4Od+xAeJDJe9mx3B4BNlo1ZyixeThFXbxQ6rJZ7Ratl/CcMVHqZMKr8Bvfm/VBaKpu6flsaXk/cjUmcHLeJZGkQ/SCGTPJQ2rCGciThF6txBdqRxS6p9ACN5zfZNZwSKUAU9g9UHoYc80JvsKXQc07rGvh5KgPkdQcZ980ngXdFwhXYD/Q6r4YvgscAy5zYhyO3MJMQkTybFpv3GjBbuNJgSQAAONseXoRfrQ+tf8PHud5Ut7oeFsovn5yIeKW1fE4UKHljmYgvyGv/lvL6cY/kdQS8B4Rq7Mo6AX2puBwjg1nPocUIqPmDtOU5D7E7CjY6oJecoPuIxER1mZ2yK1FQgZHYTST5aRVxHEVR0cBInbnyof093IQk+QzbzfDFUOi0=
+    on_success: never
+    on_failure: always
+    on_start: never
+
+  email:
+    recipients:
+    - jak@microsoft.com
+    on_success: never
+    on_failure: always
