@@ -1,3 +1,16 @@
+---
+topic: sample
+products:
+- Outlook
+- Office 365
+languages:
+- Java
+extensions:
+  contentType: samples
+  platforms:
+  - Android
+  createdDate: 6/26/2015 3:03:39 PM
+---
 # O365-Android-Art-Curator
 [![Build Status](https://travis-ci.org/OfficeDev/O365-Android-ArtCurator.svg?branch=master)](https://travis-ci.org/OfficeDev/O365-Android-ArtCurator)
 
